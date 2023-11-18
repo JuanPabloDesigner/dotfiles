@@ -7,6 +7,9 @@ See which one makes sense for your situation and enjoy!
 ### Fonts
 - [Fira Code](https://github.com/tonsky/FiraCode)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
+### Code Editor
+- [VS Code Extensions](https://github.com/JuanPabloDesigner/dotfiles/blob/main/vscode-extensions.md)
 <!--
 ### ZSH
 - [Oh My Zsh](https://ohmyz.sh/)
